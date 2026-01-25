@@ -1,1 +1,1 @@
-<img width="1760" height="1086" alt="OTTX 100 screen" src="https://github.com/user-attachments/assets/602d3282-45a6-4f37-aee5-a9c1371c7aac" />
+<img width="1800" height="1034" alt="OTTX 103 screen" src="https://github.com/user-attachments/assets/0f99ba6c-3553-4d25-8176-59f92d9a5522" />
